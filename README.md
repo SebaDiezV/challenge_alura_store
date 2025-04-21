@@ -21,3 +21,5 @@ Ayudar al señor Juan a decidir qué tienda debe vender para invertir en un nuev
 - Python: Librerias Pandas y Matplotlib :snake: :panda_face:
 - Google Colaboratory: Jupyter Notebook :notebook:
 
+## Modo de visualización
+Para una mejor visulización del archivo Jupyter, seleccionar el botón "Open in Colab" que se encuentra al principio del archivo para abrir a través de Google Colaboratory

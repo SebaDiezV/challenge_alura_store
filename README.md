@@ -22,4 +22,5 @@ Ayudar al señor Juan a decidir qué tienda debe vender para invertir en un nuev
 - Google Colaboratory: Jupyter Notebook :notebook:
 
 ## Modo de visualización
-Para una mejor visulización del archivo Jupyter, seleccionar el botón "Open in Colab" que se encuentra al principio del archivo para abrir a través de Google Colaboratory
+Para una mejor visulización del archivo Jupyter, seleccionar el botón "Open in Colab" que se encuentra al principio del archivo para abrir a través de Google Colaboratory o acceder del siguiente enlace:
+https://colab.research.google.com/github/SebaDiezV/challenge_alura_store/blob/main/Challenge_AluraStoreLatam.ipynb
